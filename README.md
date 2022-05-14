@@ -13,4 +13,3 @@
 4. ~~Scratch this.~~
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text][https://tse1.mm.bing.net/th?id=OIP.airG3G9BH2B_fP8YuGzdMQHaHa&pid=Api&P=0&w=158&h=158]
