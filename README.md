@@ -14,10 +14,6 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
-<<<<<<< HEAD
 <h5> RESEARCH INTEREST </h5> 
 Research Interest is how we measure scientists' interest in your research. Metrics are a powerful tool to evaluate science and move it forward. When used well, metrics can help researchers and institutions understand how their research is being received and applied around the world.
 =======
-<h5> RESEARCH INTERESt </h5> 
-Research Interest is how we measure scientists' interest in your research. Metrics are a powerful tool to evaluate science and move it forward. When used well, metrics can help researchers and institutions understand how their research is being received and applied around the world.
->>>>>>> 2c9119d19eaa6dcaa9564cb646a99957447121c5
